@@ -1,0 +1,6 @@
+org.insurancedb
+org.insurancedb.controller
+org.insurancedb.data
+org.insurancedb.model
+org.insurancedb.view.gui
+org.insurancedb.view.tui
