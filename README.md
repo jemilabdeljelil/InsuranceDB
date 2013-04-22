@@ -11,7 +11,7 @@ Contact: michael@birsak.net / mb1668@live.mdx.ac.uk
 Version: 1.0
 Date: 22/04/2013
 
-Location: 
+Version Control: https://bitbucket.org/birsi/insurancedb
 
 ##Usage
 The present version contains batch and shell scripts to compile and run the application. 
